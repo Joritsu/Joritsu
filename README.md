@@ -1,21 +1,21 @@
 <h1 align="center" style="color:#FF0090;">✨ Joritsu's Special Programming Place ✨</h1>
 
 <br><br/>
-<table align="center" style="border-collapse: collapse;">
+<table align="center" style="border-collapse: collapse; border: none;">
   <tr>
-    <td style="padding: 10px; text-align: center;">
+    <td style="padding: 10px; text-align: center; border: none;">
       <img src="https://github.com/user-attachments/assets/2a6122ab-61fb-4c3e-aa32-8422f9b9befd" width="198" height="198" />
     </td>
-    <td style="padding: 10px; text-align: center;">
+    <td style="padding: 10px; text-align: center; border: none;">
       <img src="https://github.com/user-attachments/assets/8df565f3-44b5-4ee4-a99c-878a63c6ec0a" width="198" height="198" />
     </td>
-    <td style="padding: 10px; text-align: center;">
+    <td style="padding: 10px; text-align: center; border: none;">
       <img src="https://github.com/user-attachments/assets/959451ff-2016-42f7-bf4b-353da49194d5" width="198" height="198" />
     </td>
-    <td style="padding: 10px; text-align: center;">
+    <td style="padding: 10px; text-align: center; border: none;">
       <img src="https://github.com/user-attachments/assets/0123eb52-049c-4fc4-bafe-f2a447b82524" width="198" height="198" />
     </td>
-    <td style="padding: 10px; text-align: center;">
+    <td style="padding: 10px; text-align: center; border: none;">
       <img src="https://github.com/user-attachments/assets/280ea12a-afd0-43bb-8534-63aa206852b1" width="198" height="198" />
     </td>
   </tr>
